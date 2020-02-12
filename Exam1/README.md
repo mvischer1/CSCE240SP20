@@ -2,6 +2,8 @@
 
 This practice exam covers most of the concepts covered on exam 1.
 
+This is a computer based exam. no browser is allowed. Also open book open notes.
+
 How it goes:
 
 - Makefile:
@@ -28,4 +30,4 @@ How it goes:
 		* if the input == "factorial" then read one more argumant:
 			* if the argumant is "ans" then use the double factorial method and print the return using std output.
 			* if the argumant is "list" then use the string factorial method and print the return using std output.
-
+	* Notes: You are allowd to use "stoi" which takes a string and return an int, and "stod" which takes a string and returns a double. Both are included in the std namespace of the library string.
