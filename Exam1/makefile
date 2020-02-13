@@ -13,3 +13,6 @@ power.o : power.cc power.h
 
 factorial.o : factorial.cc factorial.h
 	$(COMPILE) $<
+
+clean:
+	rm *.o math
